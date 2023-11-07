@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   </a>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkbosei00&theme=algolia&hide_border=false)](https://git.io/streak-stats)
 
----
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkbosei00&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<!-- 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkbosei00&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ![](https://komarev.com/ghpvc/?username=dkbosei00&style=flat-square)
 <!-- 
