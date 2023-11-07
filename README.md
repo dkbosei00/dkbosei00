@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Software Engineer interested in working as a Machine Learning Engineer or Data Scientist.
 - 🌱 I am currently learning MLOps and how to make a good notebook.
-- 📫 You can contact me via email: dannykosei0@gmail.com.
+- 📫 You can contact me via email: dannykosei00@gmail.com.
 - ⚡ In my free time I like to read manga, listen to music and write.
 
 ### Connect with me:
