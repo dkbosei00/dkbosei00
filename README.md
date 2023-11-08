@@ -48,11 +48,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="neo"  alt="neo" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
 ### :fire: My Stats :
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkbosei00&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+-->
 <!-- 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkbosei00&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 -->
